@@ -1,0 +1,20 @@
+{
+    "name": "Enforce Category Dropdown",
+    "description": "Forces the display of the Category dropdown when creating a new discussion",
+    "version": "0.1.0",
+    "license": "MIT",
+    "type": "addon",
+    "key": "enforcecategorydropdown",
+    "mobileFriendly": true,
+    "hasLocale": false,
+    "pluginUrl": "https://github.com/r-j/enforcecategorydropdown",
+    "authors": [
+        {
+            "name": "Robin Jurinka",
+            "homepage": "https://open.vanillaforums.com/profile/r_j"
+        }
+    ],
+    "require": {
+        "vanilla": ">=2.5"
+    }
+}
